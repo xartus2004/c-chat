@@ -1,0 +1,3 @@
+/home/paranjay/CLionProjects/socket-util/cmake-build-debug/CMakeFiles/socket_util.dir
+/home/paranjay/CLionProjects/socket-util/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/paranjay/CLionProjects/socket-util/cmake-build-debug/CMakeFiles/rebuild_cache.dir
