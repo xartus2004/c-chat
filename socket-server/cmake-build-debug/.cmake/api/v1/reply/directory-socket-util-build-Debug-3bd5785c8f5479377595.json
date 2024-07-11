@@ -9,6 +9,6 @@
 	"paths" : 
 	{
 		"build" : "socket-util-build",
-		"source" : "/home/paranjay/CLionProjects/socket-util"
+		"source" : "/home/paranjay/c-chat/socket-util"
 	}
 }

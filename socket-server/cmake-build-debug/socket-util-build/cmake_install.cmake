@@ -1,4 +1,4 @@
-# Install script for directory: /home/paranjay/CLionProjects/socket-util
+# Install script for directory: /home/paranjay/c-chat/socket-util
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

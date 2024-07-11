@@ -56,11 +56,11 @@
 			[
 				{
 					"backtrace" : 3,
-					"path" : "/home/paranjay/CLionProjects/socket-server/../socket-util"
+					"path" : "/home/paranjay/c-chat/socket-server/../socket-util"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "/home/paranjay/CLionProjects/socket-util"
+					"path" : "/home/paranjay/c-chat/socket-util"
 				}
 			],
 			"language" : "C",
