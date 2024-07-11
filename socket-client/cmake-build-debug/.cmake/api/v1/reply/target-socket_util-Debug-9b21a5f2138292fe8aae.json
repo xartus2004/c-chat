@@ -16,7 +16,7 @@
 		],
 		"files" : 
 		[
-			"/home/paranjay/CLionProjects/socket-util/CMakeLists.txt"
+			"/home/paranjay/c-chat/socket-util/CMakeLists.txt"
 		],
 		"nodes" : 
 		[
@@ -50,7 +50,7 @@
 			[
 				{
 					"backtrace" : 2,
-					"path" : "/home/paranjay/CLionProjects/socket-util"
+					"path" : "/home/paranjay/c-chat/socket-util"
 				}
 			],
 			"language" : "C",
@@ -74,7 +74,7 @@
 	"paths" : 
 	{
 		"build" : "socket-util-build",
-		"source" : "/home/paranjay/CLionProjects/socket-util"
+		"source" : "/home/paranjay/c-chat/socket-util"
 	},
 	"sourceGroups" : 
 	[
@@ -98,12 +98,12 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "/home/paranjay/CLionProjects/socket-util/socketutil.c",
+			"path" : "/home/paranjay/c-chat/socket-util/socketutil.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "/home/paranjay/CLionProjects/socket-util/socketutil.h",
+			"path" : "/home/paranjay/c-chat/socket-util/socketutil.h",
 			"sourceGroupIndex" : 1
 		}
 	],

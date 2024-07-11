@@ -1,6 +1,6 @@
-/home/paranjay/CLionProjects/socket-client/cmake-build-debug/CMakeFiles/untitled1.dir
-/home/paranjay/CLionProjects/socket-client/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/paranjay/CLionProjects/socket-client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/paranjay/CLionProjects/socket-client/cmake-build-debug/socket-util-build/CMakeFiles/socket_util.dir
-/home/paranjay/CLionProjects/socket-client/cmake-build-debug/socket-util-build/CMakeFiles/edit_cache.dir
-/home/paranjay/CLionProjects/socket-client/cmake-build-debug/socket-util-build/CMakeFiles/rebuild_cache.dir
+/home/paranjay/c-chat/socket-client/cmake-build-debug/CMakeFiles/untitled1.dir
+/home/paranjay/c-chat/socket-client/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/paranjay/c-chat/socket-client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/paranjay/c-chat/socket-client/cmake-build-debug/socket-util-build/CMakeFiles/socket_util.dir
+/home/paranjay/c-chat/socket-client/cmake-build-debug/socket-util-build/CMakeFiles/edit_cache.dir
+/home/paranjay/c-chat/socket-client/cmake-build-debug/socket-util-build/CMakeFiles/rebuild_cache.dir

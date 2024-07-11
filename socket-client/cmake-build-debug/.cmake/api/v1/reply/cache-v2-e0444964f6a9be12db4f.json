@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/paranjay/CLionProjects/socket-client/cmake-build-debug"
+			"value" : "/home/paranjay/c-chat/socket-client/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -415,7 +415,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/paranjay/CLionProjects/socket-client/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/home/paranjay/c-chat/socket-client/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -475,7 +475,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/paranjay/CLionProjects/socket-client"
+			"value" : "/home/paranjay/c-chat/socket-client"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1035,7 +1035,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/paranjay/CLionProjects/socket-client/cmake-build-debug/socket-util-build"
+			"value" : "/home/paranjay/c-chat/socket-client/cmake-build-debug/socket-util-build"
 		},
 		{
 			"name" : "socket_util_IS_TOP_LEVEL",
@@ -1059,7 +1059,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/paranjay/CLionProjects/socket-util"
+			"value" : "/home/paranjay/c-chat/socket-util"
 		},
 		{
 			"name" : "untitled1_BINARY_DIR",
@@ -1071,7 +1071,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/paranjay/CLionProjects/socket-client/cmake-build-debug"
+			"value" : "/home/paranjay/c-chat/socket-client/cmake-build-debug"
 		},
 		{
 			"name" : "untitled1_IS_TOP_LEVEL",
@@ -1095,7 +1095,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/paranjay/CLionProjects/socket-client"
+			"value" : "/home/paranjay/c-chat/socket-client"
 		}
 	],
 	"kind" : "cache",
